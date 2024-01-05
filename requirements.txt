@@ -1,0 +1,4 @@
+# /requirements.txt
+Flask==3.0.0
+pyemvue==0.17.2
+requests==2.31.0
